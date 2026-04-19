@@ -36,10 +36,5 @@ while is_race_on:
         racer.forward(random_distance)
 
 
-
-
-
-
-
 screen.exitonclick()
 
